@@ -59,7 +59,7 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-----
+---- Oui elle est correct parce que l'on peut bien  voir ce qu'il y'a d'écrit dessus en plus d'eytrre mise. en evidence en gros.De plus, une fois l'option cliqué elle change de couleur pour indiqué à la personne que c'est cette option qu'elle a choisi.
 ----
 ----
 
@@ -69,7 +69,7 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
+---- Non elle est pas correvct parce que l'écriture est presque illisible en plus d'avoir beaucoup de contenu qui qui serven à rien on retrouve beaucoup trop^d'information impossible de se retrouver.
 ----
 ----
 
