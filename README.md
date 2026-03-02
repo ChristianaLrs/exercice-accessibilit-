@@ -34,14 +34,15 @@ Pour chacune des pages ci-dessous:
  
 [capture-écran-à-ajouter]()
 - https://www.lesoleil.com/  
------
------
------
+----- Ils ne faut pas mettre le meme texte aux alt 
+----- voir fichier pour les captures d ecran
+----- Oui on peut faire mieux en ajoutant des ficaption et en ajoutant des alt.
+----- Mettre du texte dans les liens pour que les utilisateurs puissent naviguer dns de bonnes conditions
 [capture-écran-à-ajouter]()
 - https://www.rad.ca/  
------
------
------ 
+-----  faire attention aux différents contrastes de couleurs.
+----- les zones de references ne sont pas bonnes
+----- deux images cote à cote ont le meme texte alternatif
  
  
 
